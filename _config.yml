@@ -42,9 +42,15 @@ minima:
   date_format: "%Y-%m-%d"
   skin: auto # or auto if you want it to switch with your system settings.
   social_links:
-    - { platform: github,  user_url: "https://github.com/filimonic" }
-    - { platform: telegram, user_url: "https://t.me/filimonic" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/filimonic" }
+    - title: GitHub
+      icon: github
+      url: "https://github.com/filimonic"
+    - title: Telegram
+      icon: telegram
+      url: "https://github.com/filimonic"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/filimonic"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
